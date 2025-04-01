@@ -1,14 +1,11 @@
-# Game creation and development I
-## Crashing Plane Project
+- Fork: clonar el projecte d'algú.
+- Clonar: editar l'original.
+- Commit: registre dels canvis (en l'historial es veuen tots i es poden desfer).
+- Push: pujar els canvis al servidor (sino només es cambiara en local).
 
-This project features a copy of the classic Flappy Bird grame done with free assets by Kenney. Since this project is done for educational purposes I can distribute them but you should check Kenneys license before doing the same. This projects aims to be used to do the first steps inside Unity game engine. Expect it to be improbable since students will improve it during the course. Since this project also serves the purpose of introducing Git you can expect the main branch to be empty. You should check crashing-plane-development to find the actual project.
+- Framework: eines per desenvolupar més ràpid (com alguns motors de joc). Ex. Unity3D, Visual Studio... no el podem separar del producte final (si fas un programa amb Unity, si o si l'has d'obrir amb Unity).
+- Llibreria: paquets de codis a la que podem accedir desde on vulguem.
+- Punts d'entrada d'execució: pun des d'on s'executa el codi.
+- API: Interfície de Programació d'Aplicació. Tros de codi que deixa 
 
-## How to use this repo
-1. Fork the repository
-2. On your local repo, switch to crashing-plane-development to check it works
-3. Merge branch crashing-plane-development into main branch.
-4. Commit and push your changes
-5. Create a new branch using main as a base to start developing the exercises.
 
-## Kenney's License and work
-https://kenney.nl/
